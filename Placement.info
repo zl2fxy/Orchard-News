@@ -1,0 +1,16 @@
+﻿<Placement>
+  <Place Parts_NewsItem_Edit="Content:1"/>
+  <Place Parts_NewsItemPart="Header:1"/>
+ <Match ContentType="Page">
+   <Place Parts_Title="-"/>
+    <Place Parts_Common_Metadata="-"/>
+  </Match>
+  <Place Parts_Common_Metadata="-"/>
+ 
+
+  
+  <Place Parts_NewsSource="Content:5"/>
+  <Place Parts_NewsSource_Edit="Content:5"/>
+  
+  
+</Placement>

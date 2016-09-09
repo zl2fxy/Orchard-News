@@ -1,0 +1,11 @@
+﻿Name: Castle.NewsManagement
+AntiForgery: enabled
+Author: The Orchard Team
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.0
+Description: Description for the module
+Features:
+    Castle.NewsManagement:
+        Description: Description for feature Castle.NewsManagement.
+		Dependencies: Castle.KendoUI
